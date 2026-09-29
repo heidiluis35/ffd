@@ -1,0 +1,6 @@
+{
+  "name": "Bibliotag ITI",
+  "description": "Sistema de control de asistencia para la biblioteca escolar del Instituto Tecnológico del Istmo con tecnología NFC y geolocalización",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
